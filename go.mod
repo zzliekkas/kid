@@ -1,4 +1,4 @@
-module github.com/zzliekkas/kid
+module github.com/leor-w/kid
 
 go 1.20
 
