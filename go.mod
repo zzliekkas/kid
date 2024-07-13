@@ -28,8 +28,8 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/imroc/req/v3 v3.37.2
 	github.com/jinzhu/copier v0.3.5
-	github.com/zzliekkas/injector v0.0.7
-	github.com/zzliekkas/utils v0.0.4
+	github.com/leor-w/injector v0.0.3
+	github.com/leor-w/utils v0.0.3
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
 	github.com/mojocn/base64Captcha v1.3.6
 	github.com/olivere/elastic v6.2.37+incompatible
